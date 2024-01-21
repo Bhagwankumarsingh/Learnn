@@ -1,0 +1,1 @@
+console.log("Connection of github to vs code is successfull");
